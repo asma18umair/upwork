@@ -1,0 +1,50 @@
+input{
+    outline: none;
+    border: none;
+    font-size: large;
+}
+.btn{
+    border-radius: 25px;
+   
+}
+.right:hover{
+    border-radius: 25px ;
+    background-color: rgb(214, 224, 224);
+}
+.nav {
+    display: flex;
+    background-color: rgb(233, 209, 221);
+    width: 60%;
+    text-align: center;
+    text-decoration: none;
+    list-style: none;
+
+    justify-content: space-between;
+ 
+}
+.box{
+    display: flex;
+    /* background-color: aqua; */
+   width: 100%;
+}
+.one{
+    width: 50%;
+    /* background-color: rgb(188, 174, 202); */
+}
+.two{
+    width: 60%;
+    /* background-color: cadetblue; */
+   
+}
+.how{
+    font-size: 100px;
+    color: darkgreen;
+    font-family: serif;
+  text-align: start;
+  margin-left: 40px; ba
+}
+.for{
+    font-size: 20px;
+    text-align: justify;
+    margin-left: 40px;
+}
